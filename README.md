@@ -10,9 +10,9 @@ The in-sample relationship is statistically significant, but the strategy produc
 | --- | --- |
 | Cointegration statistic | -3.5764 |
 | Cointegration p-value | 0.0262 |
-| Out-of-sample cumulative P&L | -0.0043 units |
-| Max drawdown | -0.1323 units |
-| Trades executed | 3 |
+| Total cumulative P&L | -0.0066 units |
+| Max drawdown | -0.1338 units |
+| Position Changes (entries + exits) | 3 |
 
 The strategy entered only three trades over the out-of-sample period. With such a small sample the cumulative P&L should be interpreted as only an illustration of the strategy mechanics rather than a robust estimate of expected performance.
 
